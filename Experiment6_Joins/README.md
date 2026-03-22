@@ -294,6 +294,7 @@ WHERE c.grade <= 100;
 From the following tables write a SQL query to display the customer name, customer city, grade, salesman, salesman city. The results should be sorted by ascending customer_id.
 
 
+
 ```sql
 SELECT 
     c.cust_name,
